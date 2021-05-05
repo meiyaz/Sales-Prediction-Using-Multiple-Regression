@@ -11,6 +11,6 @@ In this project ,I have built and evaluated **multiple linear regression models*
  - Performed Model interaction effects in regression using basic feature engineering techniques.
 
 
-1. [Notebook Link](https://github.com/Mr-Meiy/Sales-Prediction-Using-Multiple-Regression/blob/master/multiple.ipynb)
+1. [Notebook Link](https://nbviewer.jupyter.org/github/Mr-Meiy/Sales-Prediction-Using-Multiple-Regression/blob/master/multiple.ipynb)
 
 2. [Dataset Link](https://github.com/Mr-Meiy/Sales-Prediction-Using-Multiple-Regression/blob/master/Advertising.csv)
