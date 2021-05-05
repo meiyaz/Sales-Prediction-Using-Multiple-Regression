@@ -2,7 +2,7 @@
 
 ### Description:-
 
-In this project ,I have built and evaluated **multiple linear regression models** using Python. I have used scikit-learn to calculate the regression, while using pandas for data management and seaborn for data visualization. The dataset for this project consists of the very popular [Advertising](%28https://www.kaggle.com/ishaanv/ISLR-Auto#Advertising.csv%29) dataset to predict sales revenue based on advertising spending through media such as TV, radio, and newspaper.
+In this project ,I have built and evaluated **multiple linear regression models** using Python. I have used scikit-learn to calculate the regression, while using pandas for data management and seaborn for data visualization. The dataset for this project consists of the very popular [Advertising](%28https://www.kaggle.com/ishaanv/ISLR-Auto#Advertising.csv%29) dataset to predict sales revenue based on advertising spending through media such as banners, electronic billboards, and others.
 
 ### Key Task : 
  - Built univariate and multivariate linear regression models using scikit-learn .
